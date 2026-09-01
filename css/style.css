@@ -37,22 +37,23 @@
 } */
 
 
-.navsLogo{
+.navsLogo {
     /* border: 1px solid black; */
-font-family: 'Caprasimo';
-font-style: normal;
-/* font-weight: 400; */
-font-size: 20px;
-/* line-height: 92%; */
-/* or 18px */
-letter-spacing: -0.03em;
+    font-family: 'Caprasimo';
+    font-style: normal;
+    /* font-weight: 400; */
+    font-size: 20px;
+    /* line-height: 92%; */
+    /* or 18px */
+    letter-spacing: -0.03em;
 
-/* Link/Link */
-color: #2C2825;
+    /* Link/Link */
+    color: #2C2825;
 }
+
 .navBox {
     margin: .7rem 2.5rem;
-    padding-bottom: 1.688rem; 
+    padding-bottom: 1.688rem;
     /* height: 70px; */
     border-bottom: 1px solid black;
     /* padding: 1.688rem;
@@ -60,34 +61,34 @@ color: #2C2825;
     */
 }
 
-.h{
+.h {
     margin-right: 2.5rem;
 }
 
-    
-
-.navbar-nav>li{
+.navbar-nav>li {
     /* font-family: Outfit;  */
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
     color: #2C2825;
 }
+
 @media (max-width: 766px) {
-.navItems{
-    padding-top: 81px;
-    margin-bottom: 70px;
-}
-.navItem2{
-    margin-top: 40px;
-}
+    .navItems {
+        padding-top: 81px;
+        margin-bottom: 70px;
+    }
+
+    .navItem2 {
+        margin-top: 40px;
+    }
 }
 
 /* The content your are seeing is a figma design and I am creating this design using html, css and bootstrap and I have successfully designed the navbar.
 In the hero section, below the "our blooms" heading, there is an image container having a flower image. When I am shrinking the browser window within browsers' toggle device toolbar, the image behavior is that, the image is changing/transitioning in to smaller and wise versa at large screen (from shrinking small to large screen) which looks like animated.
 First of all, did you understand the behavior of the image, do you have any question and how to build that using html, css or bootstrap */
 
-.head{
+.head {
     /* font-family: 'Outfit'; */
     font-style: normal;
     font-weight: 700;
@@ -97,24 +98,27 @@ First of all, did you understand the behavior of the image, do you have any ques
     letter-spacing: -0.02em;
     padding-left: 40px;
 }
-@media (min-width: 799px){
-    .head{
+
+@media (min-width: 799px) {
+    .head {
         font-size: 45px;
-    }    
+    }
 
 }
-@media (min-width: 1279px){
-    .head{
+
+@media (min-width: 1279px) {
+    .head {
         font-size: 50px;
-    }    
+    }
 
 }
 
-@media (min-width: 800px){
-    .navlLogo{
+@media (min-width: 800px) {
+    .navlLogo {
         display: block !important;
     }
-    .navsLogo{
+
+    .navsLogo {
         display: none !important;
     }
 }
@@ -472,7 +476,7 @@ footer {
         margin: 120px 60px 0;
     }
 
-    .title h2 {        
+    .title h2 {
         font-style: normal;
         font-weight: 700;
         font-size: 45px;
@@ -502,22 +506,23 @@ footer {
 
 @media (max-width: 799px) {
 
-    .kuchbhi{
+    .kuchbhi {
         font-family: Caprasimo !important;
-    font-size: 117.032px;
-    line-height: 100px;
-    margin: 0;
-    padding: 0;
-    text-align: center;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 117.032px;
-    letter-spacing: -0.03em;
-    color: #000000;
-        
+        font-size: 117.032px;
+        line-height: 100px;
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 117.032px;
+        letter-spacing: -0.03em;
+        color: #000000;
+
     }
 
-    header, .hero {
+    header,
+    .hero {
         padding: 0 56px;
     }
 
