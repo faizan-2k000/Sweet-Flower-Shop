@@ -1,6 +1,6 @@
 * {
-    /* margin: 0;
-    box-sizing: border-box; */
+    /* margin: 0; */
+    /* box-sizing: content-box !important;  */
 }
 
 /* div{
@@ -36,9 +36,24 @@
     border: 1px solid rgb(179, 5, 231);
 } */
 
+
+.navsLogo{
+    /* border: 1px solid black; */
+font-family: 'Caprasimo';
+font-style: normal;
+/* font-weight: 400; */
+font-size: 20px;
+/* line-height: 92%; */
+/* or 18px */
+letter-spacing: -0.03em;
+
+/* Link/Link */
+color: #2C2825;
+}
 .navBox {
     margin: .7rem 2.5rem;
-    padding-bottom: 1.688rem;
+    padding-bottom: 1.688rem; 
+    /* height: 70px; */
     border-bottom: 1px solid black;
     /* padding: 1.688rem;
     
@@ -502,7 +517,7 @@ footer {
         
     }
 
-    header .hero {
+    header, .hero {
         padding: 0 56px;
     }
 
