@@ -9,7 +9,7 @@ and responsive behavior across desktop, tablet, and mobile screens.
 
 ## Live Demo
 
-View Live Website: https://muhammad-faizan-123.github.io/Sweet-Flower-Shop/
+View Live Website: https://m-faizan-123.github.io/Sweet-Flower-Shop/
 
 ## Design Reference
 
