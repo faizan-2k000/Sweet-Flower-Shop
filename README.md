@@ -9,7 +9,7 @@ and responsive behavior across desktop, tablet, and mobile screens.
 
 ## Live Demo
 
-View Live Website: https://m-faizan-123.github.io/Sweet-Flower-Shop/
+View Live Website: [sweet-flower-shopp.netlify.app]
 
 ## Design Reference
 
@@ -20,7 +20,7 @@ https://www.figma.com/community/file/1497437463361122374/sweet-flower-shop
 
 - HTML5
 - CSS3
-- Bootstrap
+- Bootstrap (for Navigation Bar only)
 
 ## Responsive Breakpoints
 
