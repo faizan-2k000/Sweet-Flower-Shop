@@ -9,7 +9,7 @@ and responsive behavior across desktop, tablet, and mobile screens.
 
 ## Live Demo
 
-View Live Website: sweet-flower-shopp.netlify.app
+View Live Website: https://sweet-flower-shopp.netlify.app
 
 ## Design Reference
 
