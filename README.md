@@ -4,7 +4,7 @@
 
 A responsive frontend website developed from a Figma design (Community).
 The project focuses on translating the provided UI design into
-HTML, CSS, and Bootstrap while maintaining the intended layout
+HTML and CSS while maintaining the intended layout
 and responsive behavior across desktop, tablet, and mobile screens.
 
 ## Live Demo
